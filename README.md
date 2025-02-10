@@ -21,7 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KATHIRVEL-E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# MY CONTRIBUTIONS
-![snake animation](https://github.com/<seu KATHIRVEL-E>/<seu KATHIRVEL-E>/blob/output/github-contribution-grid-snake2.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
