@@ -18,7 +18,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KATHIRVEL-E&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=KATHIRVEL-E&icon=0&color=0)](https://visitcount.itsvg.in)
+<strong style="font-size: 100px;">🐍 Snake On My Contribution</strong>
+
+ ![snake gif](https://github.com/KATHIRVEL-E/KATHIRVEL-E/blob/output/github-snake-dark.svg)
+ </div>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
