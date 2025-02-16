@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br> Hi there, I'm Kathirvel! 👋  <br><br>🚀 **Electronics and Communication Engineering Student** | **IoT & Communication Enthusiast** | **IEEE ComSoc Executive Member**  <br><br>🔹 **Who am I?**  <br>I'm a 3rd-year ECE student at Velalar College of Engineering and Technology, passionate about **Communication Engineering, IoT, and Embedded Systems**. I love working on **wireless sensor networks, ESP32/ESP8266 projects, and data visualization with Power BI**.  <br><br>🔹 **What I'm Learning?**  <br>- 📡 **Communication Engineering** (Mobile Networks, 5G & Future Technologies)  <br>- ⚡ **IoT & Embedded Systems** (ESP32, NRF24L01, Arduino, Blynk, GSM modules)  <br>- 💻 **Programming** (C, HTML)  <br>- 📊 **Power BI & Excel** for data analysis  <br><br>🔹 **Projects & Interests**  <br>- 🔥 **IoT-enabled Smart Classroom System**  <br>- 📡 **Emotion-Aware Attendance & Engagement Tracking**  <br>- 🏠 **Home Automation with ESP8266 & Blynk**  <br>- 📊 **Data Visualization in Power BI**  <br>-🧑‍💻**Coding**<br><br>🔹 **Achievements & Activities**  <br>- 🏆 **1st Place** in Paper Presentation  <br>- 🎤 **Debater** (Android vs iOS)  <br>- 🎓 Coordinating**NPTEL & Hackathons**  <br><br>💡 **I love collaborating on open-source IoT and communication-related projects and Coding**  <br><br>📫 **Reach me at:**  <p style="text-align: center;"><br>[LinkedIn](www.linkedin.com/in/<br>kathir-vel-e-66649b293<br>) | [GitHub](KATHIRVEL-E) | [Email](eshakathirvel@gmail.com) |[W3 schools](KineticKathir)<br><br></p>
 
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 # 💻 Tech Stack:
 <div align="center">
  
