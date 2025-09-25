@@ -1,48 +1,108 @@
 # 💫 About Me:
 <div align="center">
   
-<img align="right" alt="Coding" width="400" 
+<img align="right" alt="Coding" width="350" 
      src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 </div>
 
-  <br>**Hi there, I'm Kathirvel!** 👋  <br><br>**Electronics and Communication Engineering Student** | **IoT & Data Analytics Enthusiast** |<br><br>🔹 **Who am I?**  <br>I’m a Final year ECE student at *Velalar College of Engineering and Technology*, deeply passionate about **Data analysis,IoT systems and data-driven solutions**. I thrive at the intersection of hardware and also make decsions for buiness and data—building smart devices with sensors (like ESP32) and transforming raw data into actionable insights using **SQL, Power BI, and Python**.  <br><br>🔹 **Skills & Tools**  <br>- **IoT Development**: ESP32/ESP8266, Arduino, Blynk, Wireless Sensor Networks  <br>- **Data Analytics**: SQL, Python (Pandas), Power BI, Excel  <br>- **Programming**:Python,HTML  <br>- **Visualization**: Power BI Dashboards, Canva  <br><br>🔹 **Projects I’m Proud Of**  <br>- **Smart Milk quality analyzer**: IoT-based milk analyzingsystem to help for farmers.  <br>- **E-commerce sales analysis using excel**: Analyze the e-commerce sales data to identify the patterns of sales.  <br>- **Home Automation**: ESP8266 + Blynk app for remote control.  <br>- **Data Stories**: Created interactive Power BI dashboards for academic datasets.  <br><br>🔹 **Achievements**  <br>- 🏆 **1st Place** in Paper Presentation (Business topic). <br>- 🎓 **Coordinator** for NPTEL courses & hackathons.  <br><br>🔹 **What’s Next?**  <br>I’m actively exploring  **advanced SQL/Python for predictive analytics**. Open to collaborations on open-source IoT or data projects!  <br><br>📫 **Let’s Connect:**  <br>[LinkedIn](www.linkedin.com/in/kathir-vel-e-66649b293) | [GitHub](https://github.com/KATHIRVEL-E) | [Email](mailto:eshakathirvel@gmail.com)<br><br>
-  
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kathirz01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshakathirvel@gmail.com) 
+**Hi there, I'm Kathirvel!** 👋  
+**Electronics and Communication Engineering Student** | **IoT & Data Analytics Enthusiast**
+
+---
+
+🔹 **Who am I?**  
+I’m a Final-year ECE student at *Velalar College of Engineering and Technology*, passionate about **Data Analytics & IoT systems**.  
+I thrive at the intersection of **hardware + data**, building smart sensor-based devices (ESP32/ESP8266) and transforming raw data into insights with **SQL, Python, and Power BI**.
+
+---
+
+## 🌐 Socials
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&logoWidth=20)](mailto:eshakathirvel@gmail.com)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white&logoWidth=20)](https://pinterest.com/Kathirz01) 
+ 
+
+</div>
+
+---
 
 # 💻 Tech Stack:
 <div align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54&logoWidth=20) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=database&logoColor=white&logoWidth=20)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black&logoWidth=20) 
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=microsoft-excel&logoColor=white&logoWidth=20) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white&logoWidth=20) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black&logoWidth=20)  
+![IoT](https://img.shields.io/badge/ESP32/ESP8266-%2300499C.svg?style=flat&logo=espressif&logoColor=white&logoWidth=20) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white&logoWidth=20)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&logoWidth=20) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white&logoWidth=20) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&logoWidth=20)
+
+</div>
+
+---
+
 # 📊 GitHub Stats:
-<div align="center"><div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=KATHIRVEL-E&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KATHIRVEL-E&theme=radical&hide_border=false)<br/>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=KATHIRVEL-E&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=KATHIRVEL-E&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KATHIRVEL-E&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=KATHIRVEL-E&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+---
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  
+
 ![](https://github-contributor-stats.vercel.app/api?username=KATHIRVEL-E&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</div>
+
 ---
+
+## 🐍 Snake on Contributions
+<div align="center">
+
+![snake gif](https://github.com/KATHIRVEL-E/KATHIRVEL-E/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Data Analytics Journey
+<div align="center">
+
+[![Data Analytics Activity](https://github-readme-activity-graph.vercel.app/graph?username=KATHIRVEL-E&theme=github-compact&hide_border=true&area=true&custom_title=My%20Data%20Journey)](https://github.com/KATHIRVEL-E)
+
+## 🎯 Skill Focus
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KATHIRVEL-E&theme=radical&hide_border=false&layout=donut&hide=c)
+
+</div>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=KATHIRVEL-E&icon=8&color=4)](https://visitcount.itsvg.in)
-<strong style="font-size: 100px;">🐍 Snake On My Contribution</strong>
-
- ![snake gif](https://github.com/KATHIRVEL-E/KATHIRVEL-E/blob/output/github-snake-dark.svg)
- </div>
- 
- [![Data Analytics Activity](https://github-readme-activity-graph.vercel.app/graph?username=KATHIRVEL-E&theme=github-compact&hide_border=true&area=true&custom_title=My%20Data%20Journey)](https://github.com/KATHIRVEL-E)
-
